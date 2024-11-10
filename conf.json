@@ -1,0 +1,102 @@
+{
+    "units":[
+        {
+            "id":"1",
+            "name":"单元一",
+            "words":[
+                {
+                    "sentence": "What is your __?",
+                    "word": "name",
+                    "cue": "你叫什么名字？"
+                },
+                {
+                    "sentence": "__, Miss Zheng",
+                    "word": "hi",
+                    "cue": "你好，郑老师"
+                }
+            ]
+        },
+        {
+            "id":"15",
+            "name":"单元十五",
+            "words":[
+                {
+                    "sentence": "The __ Art Show is coming.",
+                    "word": "school",
+                    "cue": "学校艺术节到来了"
+                },
+                {
+                    "sentence": "The School Art __ is coming.",
+                    "word": "show",
+                    "cue": "学校艺术节到来了"
+                },
+                {
+                    "sentence": "What __ you do?",
+                    "word": "can",
+                    "cue": "你们能干什么？"
+                },
+                {
+                    "sentence": "I can __.",
+                    "word": "dance",
+                    "cue": "我能跳舞"
+                },
+                {
+                    "sentence": "I can __ the piano.",
+                    "word": "play",
+                    "cue": "我能弹钢琴"
+                },
+                {
+                    "sentence": "I can play the __.",
+                    "word": "piano",
+                    "cue": "我能弹钢琴"
+                },
+                {
+                    "sentence": "I can __ Beijing opera.",
+                    "word": "sing",
+                    "cue": "我能唱京剧"
+                },
+                {
+                    "sentence": "__ can play together in the show.",
+                    "word": "we",
+                    "cue": "我们可以一起表演"
+                }
+            ]
+        },
+        {
+            "id":"16",
+            "name":"单元十六",
+            "words":[
+                {
+                    "sentence": "Can you play __, Baobao?",
+                    "word": "ping-pong",
+                    "cue": "宝宝，你可以打乒乓球吗？"
+                },
+                {
+                    "sentence": "__'s go",
+                    "word": "let",
+                    "cue": "我们走"
+                },
+                {
+                    "sentence": "Can you __ rope?",
+                    "word": "jump",
+                    "cue": "你可以跳绳吗？"
+                },
+                {
+                    "sentence": "Can you jump __?",
+                    "word": "rope",
+                    "cue": "你可以跳绳吗？"
+                },
+                {
+                    "sentence": "__, I can't.",
+                    "word": "no",
+                    "cue": "不，我不会"
+                },
+                {
+                    "sentence": "It's __.",
+                    "word": "easy",
+                    "cue": "这很简单"
+                }
+            ]
+        }
+    ]
+}
