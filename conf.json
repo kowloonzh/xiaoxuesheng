@@ -97,6 +97,83 @@
                     "cue": "这很简单"
                 }
             ]
+        },
+		{
+            "id":"17",
+            "name":"单元十七",
+            "words":[
+                {
+                    "sentence": "Hello, __",
+                    "word": "child",
+                    "cue": "你好，孩子们"
+                },
+                {
+                    "sentence": "It's __ School Cleaning Day.",
+                    "word": "our",
+                    "cue": "今天是我们的学校大扫除日"
+                },
+                {
+                    "sentence": "I can __ the blackboard.",
+                    "word": "clean",
+                    "cue": "我可以清理黑板"
+                },
+                {
+                    "sentence": "OK，let's __ the chairs on the desks.",
+                    "word": "put",
+                    "cue": "好的，咱们把椅子放在桌子上"
+                },
+                {
+                    "sentence": "I can __ the floor.",
+                    "word": "sweep",
+                    "cue": "我可以扫地"
+                },
+                {
+                    "sentence": "I can sweep the __.",
+                    "word": "floor",
+                    "cue": "我可以扫地"
+                },
+			    {
+                    "sentence": "I can clean the __.",
+                    "word": "blackboard",
+                    "cue": "我可以清理黑板"
+                },
+				{
+                    "sentence": "The __ are here and there.",
+                    "word": "book",
+                    "cue": "书到处都是"
+                }
+            ]
+        },
+		{
+            "id":"18",
+            "name":"单元十八",
+            "words":[
+                {
+                    "sentence": "I'm a big __ now.",
+                    "word": "girl",
+                    "cue": "我现在是一个大女孩了"
+                },
+                {
+                    "sentence": "I can clean my __.",
+                    "word": "room",
+                    "cue": "我可以清理我的房间"
+                },
+                {
+                    "sentence": "I can __ the dishes.",
+                    "word": "wash",
+                    "cue": "我可以刷碗"
+                },
+                {
+                    "sentence": "I can wash the __es.",
+                    "word": "dish",
+                    "cue": "我可以刷碗"
+                },
+                {
+                    "sentence": "I can __ books to my little sister.",
+                    "word": "read",
+                    "cue": "我可以给我的妹妹读书"
+                }
+            ]
         }
     ]
 }
