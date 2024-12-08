@@ -172,7 +172,130 @@
                     "sentence": "I have __ classes today.",
                     "word": "six",
                     "cue": "我今天有六节课"
+                },	
+                {
+                    "sentence": "How many __s do you have?",
+                    "word": "pencil",
+                    "cue": "你有多少支铅笔？"
                 }	
+            ]
+        },
+        {
+            "id":"6",
+            "name":"单元六",
+            "words":[
+				{
+                    "sentence": "How __ are you?",
+                    "word": "old",
+                    "cue": "你多大了?"
+                },
+                {
+                    "sentence": "One, two, three... __, eight, nine.",
+                    "word": "seven",
+                    "cue": "一,二,三... 七,八,九?"
+                },
+                {
+                    "sentence": "One, two, three... seven, __, nine.",
+                    "word": "eight",
+                    "cue": "一,二,三... 七,八,九?"
+                },
+                {
+                    "sentence": "One, two, three... seven, eight, __.",
+                    "word": "nine",
+                    "cue": "一,二,三... 七,八,九?"
+                },
+                {
+                    "sentence": "__ I'm nine years old.",
+                    "word": "yes",
+                    "cue": "是的，我九岁了"
+                },
+                {
+                    "sentence": "__ down, please.",
+                    "word": "sit",
+                    "cue": "请坐下"
+                },
+                {
+                    "sentence": "One, two, three... __, five...",
+                    "word": "four",
+                    "cue": "一,二,三... 四,五..."
+                },
+                {
+                    "sentence": "One, two, three... four, __...",
+                    "word": "five",
+                    "cue": "一,二,三... 四,五..."
+                }
+            ]
+        },
+        {
+            "id":"7",
+            "name":"单元七",
+            "words":[
+				{
+                    "sentence": "And __ are many basketballs.",
+                    "word": "there",
+                    "cue": "那里还有很多篮球"
+                },
+				{
+                    "sentence": "And there are many __s.",
+                    "word": "basketball",
+                    "cue": "那里还有很多篮球"
+                },
+				{
+                    "sentence": "Five ... __, eleven, twelve. There are twelve basketballs",
+                    "word": "ten",
+                    "cue": "五... 十,十一,十二, 那里还有十二个篮球"
+                },
+				{
+                    "sentence": "Five ... ten, __, twelve. There are twelve basketballs",
+                    "word": "eleven",
+                    "cue": "五... 十,十一,十二, 那里还有十二个篮球"
+                },
+				{
+                    "sentence": "There are __ basketballs",
+                    "word": "twelve",
+                    "cue": "那里还有十二个篮球"
+                },
+				{
+                    "sentence": "How many __s are there?",
+                    "word": "star",
+                    "cue": "有多少颗星星?"
+                }
+            ]
+        },
+        {
+            "id":"8",
+            "name":"单元八",
+            "words":[
+                {
+                    "sentence": "There are __ of us.",
+                    "word": "thirteen",
+                    "cue": "我们有十三个"
+                },
+                {
+                    "sentence": "Oh no, There are __.",
+                    "word": "fourteen",
+                    "cue": "不，我们有十四个"
+                },
+                {
+                    "sentence": "__! Thank you.",
+                    "word": "great",
+                    "cue": "太棒了，谢谢"
+                },
+                {
+                    "sentence": "There are __ pandas in my family.",
+                    "word": "fifteen",
+                    "cue": "我的家里有十五个熊猫"
+                },
+                {
+                    "sentence": "There are fifteen __s in my family.",
+                    "word": "panda",
+                    "cue": "我的家里有十五个熊猫"
+                },
+                {
+                    "sentence": "There are fifteen pandas in my __.",
+                    "word": "family",
+                    "cue": "我的家里有十五个熊猫"
+                }
             ]
         },
         {
@@ -432,7 +555,7 @@
                 },
 				{
                     "sentence": "Brown is the colour of my tiddy __.",
-                    "word": "beer",
+                    "word": "bear",
                     "cue": "我的泰迪熊是棕色的"
                 },
 				{
@@ -491,6 +614,155 @@
                     "sentence": "I can __ a rainbow.",
                     "word": "make",
                     "cue": "我能做一个彩虹"
+                }
+            ]
+        },
+		{
+            "id":"23",
+            "name":"单元二十三",
+            "words":[
+                {
+                    "sentence": "__ is this boy?",
+                    "word": "who",
+                    "cue": "这个男孩是谁?"
+                },
+                {
+                    "sentence": "He is my __, MingMing.",
+                    "word": "brother",
+                    "cue": "他是我哥哥，明明"
+                },
+                {
+                    "sentence": "Mike, they are my __ and dad.",
+                    "word": "mum",
+                    "cue": "Mike，他们是我妈妈和爸爸"
+                },
+                {
+                    "sentence": "Mike, they are my mum and __.",
+                    "word": "dad",
+                    "cue": "Mike，他们是我妈妈和爸爸"
+                }
+            ]
+        },
+		{
+            "id":"24",
+            "name":"单元二十四",
+            "words":[
+                {
+                    "sentence": "You have so many family __s.",
+                    "word": "photo",
+                    "cue": "你有这么多家人照片"
+                },
+                {
+                    "sentence": "You have your mum's __s.",
+                    "word": "eye",
+                    "cue": "你有你妈妈的眼睛"
+                },
+                {
+                    "sentence": "Who is this __?",
+                    "word": "man",
+                    "cue": "这个男人是谁?"
+                },
+                {
+                    "sentence": "He looks __.",
+                    "word": "strong",
+                    "cue": "他看起来很强壮"
+                },
+                {
+                    "sentence": "He is my __.",
+                    "word": "uncle",
+                    "cue": "他是我的叔叔"
+                },
+                {
+                    "sentence": "Is this your __?",
+                    "word": "aunt",
+                    "cue": "这是你的婶婶吗?"
+                },
+                {
+                    "sentence": "She has short __.",
+                    "word": "hair",
+                    "cue": "她的头发很短"
+                },
+                {
+                    "sentence": "Here is my little __.",
+                    "word": "cousin",
+                    "cue": "这是我的小表弟"
+                }
+            ]
+        },
+		{
+            "id":"25",
+            "name":"单元二十五",
+            "words":[
+                {
+                    "sentence": "There are my __ mum and dad.",
+                    "word": "supper",
+                    "cue": "这是我的超级好的爸爸和妈妈"
+                },
+                {
+                    "sentence": "Sometimes my mum is a __.",
+                    "word": "cook",
+                    "cue": "我的妈妈有时候是个厨师"
+                },
+                {
+                    "sentence": "__ cooks delicious food for us.",
+                    "word": "she",
+                    "cue": "她为我们做出了美味的食物"
+                },
+                {
+                    "sentence": "Sometime my dad is a __.",
+                    "word": "driver",
+                    "cue": "我的爸爸有时候是个司机"
+                },
+                {
+                    "sentence": "Sometime my mum is a __.",
+                    "word": "nurse",
+                    "cue": "我的妈妈有时候是个护士"
+                },
+                {
+                    "sentence": "Sometime my dad is a __.",
+                    "word": "singer",
+                    "cue": "我的爸爸有时候是个歌手"
+                },
+                {
+                    "sentence": "He puts my little brother to __.",
+                    "word": "bed",
+                    "cue": "他把我的小弟弟哄睡"
+                }
+            ]
+        },
+		{
+            "id":"26",
+            "name":"单元二十六",
+            "words":[
+                {
+                    "sentence": "They are my __s.",
+                    "word": "parent",
+                    "cue": "他们是我的父母"
+                },
+                {
+                    "sentence": "My dad is a __.",
+                    "word": "doctor",
+                    "cue": "我的爸爸是个医生"
+                },
+                {
+                    "sentence": "My mum is a __.",
+                    "word": "teacher",
+                    "cue": "我的妈妈是个教师"
+                },
+                {
+                    "sentence": "She is __.",
+                    "word": "kind",
+                    "cue": "她是很和蔼的"
+                },
+                {
+                    "sentence": "My brother and I are __s.",
+                    "word": "student",
+                    "cue": "我的哥哥和我是学生"
+                },
+                {
+                    "sentence": "I __ my family.",
+                    "word": "love",
+                    "cue": "我爱我的家人"
                 }
             ]
         }
