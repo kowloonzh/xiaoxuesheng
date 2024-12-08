@@ -1,0 +1,498 @@
+{
+    "units":[
+        {
+            "id":"1",
+            "name":"单元一",
+            "words":[
+				{
+                    "sentence": "__, Miss Zheng",
+                    "word": "hello",
+                    "cue": "你好，郑老师"
+                },
+				{
+                    "sentence": "__ is your name?",
+                    "word": "what",
+                    "cue": "你叫什么名字？"
+                },
+                {
+                    "sentence": "What is __ name?",
+                    "word": "your",
+                    "cue": "你叫什么名字？？"
+                },
+				{
+                    "sentence": "What is your __?",
+                    "word": "name",
+                    "cue": "你叫什么名字？？"
+                },
+                {
+                    "sentence": "__ to meet you.",
+                    "word": "nice",
+                    "cue": "很高兴见到你"
+                },
+				{
+                    "sentence": "Nice to __ you.",
+                    "word": "meet",
+                    "cue": "很高兴见到你"
+                }
+            ]
+        },
+		{
+            "id":"2",
+            "name":"单元二",
+            "words":[
+				{
+                    "sentence": "Hello! __'m Sara",
+                    "word": "I",
+                    "cue": "你好,我叫Sara"
+                },
+				{
+                    "sentence": "I'm from the USA",
+                    "word": "from",
+                    "cue": "我来自美国"
+                },
+                {
+                    "sentence": "Nice to meet __.",
+                    "word": "you",
+                    "cue": "你叫什么名字？"
+                },
+				{
+                    "sentence": "__ is Mike?",
+                    "word": "this",
+                    "cue": "这是Mike"
+                },
+                {
+                    "sentence": "__'s from Canada.",
+                    "word": "he",
+                    "cue": "他来自加拿大"
+                }	
+            ]
+        },
+		{
+            "id":"3",
+            "name":"单元三",
+            "words":[
+				{
+                    "sentence": "__ morning, Miss Wang.",
+                    "word": "good",
+                    "cue": "早上好,王女士"
+                },
+				{
+                    "sentence": "Good __, Miss Wang.",
+                    "word": "morning",
+                    "cue": "早上好,王女士"
+                },
+				{
+                    "sentence": "Good morning, __ Wang.",
+                    "word": "miss",
+                    "cue": "早上好,王女士"
+                },
+                {
+                    "sentence": "__ are you?",
+                    "word": "how",
+                    "cue": "你怎么样？"
+                },
+				{
+                    "sentence": "I'm __, Thank you.",
+                    "word": "fine",
+                    "cue": "我很好,谢谢你"
+                },
+				{
+                    "sentence": "Good __, Mr Li.",
+                    "word": "afternoon",
+                    "cue": "下午好,李先生"
+                },
+                {
+                    "sentence": "Good afternoon, __ Li.",
+                    "word": "Mr",
+                    "cue": "下午好,李先生"
+                }	
+            ]
+        },
+		{
+            "id":"4",
+            "name":"单元四",
+            "words":[
+				{
+                    "sentence": "Good afternoon, my __.",
+                    "word": "friend",
+                    "cue": "下午好,我的朋友"
+                },
+				{
+                    "sentence": "Let me __ you.",
+                    "word": "help",
+                    "cue": "让我来帮助你"
+                },
+				{
+                    "sentence": "Good __, Mum, I'm back.",
+                    "word": "evening",
+                    "cue": "晚上好,妈妈,我回来了"
+                },
+                {
+                    "sentence": "Good __, my new friends.",
+                    "word": "night",
+                    "cue": "晚安,我的新朋友们"
+                },
+				{
+                    "sentence": "Good night, my __ friends.",
+                    "word": "new",
+                    "cue": "晚安,我的新朋友们"
+                }			
+            ]
+        },
+		{
+            "id":"5",
+            "name":"单元五",
+            "words":[
+				{
+                    "sentence": "How __ classes do you have today,Mike?",
+                    "word": "many",
+                    "cue": "Mike,你今天有多少节课?"
+                },
+				{
+                    "sentence": "How many __es do you have today,Mike?",
+                    "word": "class",
+                    "cue": "Mike,你今天有多少节课?"
+                },
+				{
+                    "sentence": "Let me count. __, two, three.",
+                    "word": "one",
+                    "cue": "让我来数一数,一,二,三"
+                },
+				{
+                    "sentence": "Let me count. one, __, three.",
+                    "word": "two",
+                    "cue": "让我来数一数,一,二,三"
+                },
+				{
+                    "sentence": "Let me count. one, two, __.",
+                    "word": "three",
+                    "cue": "让我来数一数,一,二,三"
+                },
+                {
+                    "sentence": "I have __ classes today.",
+                    "word": "six",
+                    "cue": "我今天有六节课"
+                }	
+            ]
+        },
+        {
+            "id":"15",
+            "name":"单元十五",
+            "words":[
+                {
+                    "sentence": "The __ Art Show is coming.",
+                    "word": "school",
+                    "cue": "学校艺术节到来了"
+                },
+                {
+                    "sentence": "The School Art __ is coming.",
+                    "word": "show",
+                    "cue": "学校艺术节到来了"
+                },
+                {
+                    "sentence": "What __ you do?",
+                    "word": "can",
+                    "cue": "你们能干什么？"
+                },
+                {
+                    "sentence": "I can __.",
+                    "word": "dance",
+                    "cue": "我能跳舞"
+                },
+                {
+                    "sentence": "I can __ the piano.",
+                    "word": "play",
+                    "cue": "我能弹钢琴"
+                },
+                {
+                    "sentence": "I can play the __.",
+                    "word": "piano",
+                    "cue": "我能弹钢琴"
+                },
+                {
+                    "sentence": "I can __ Beijing opera.",
+                    "word": "sing",
+                    "cue": "我能唱京剧"
+                },
+                {
+                    "sentence": "__ can play together in the show.",
+                    "word": "we",
+                    "cue": "我们可以一起表演"
+                }
+            ]
+        },
+        {
+            "id":"16",
+            "name":"单元十六",
+            "words":[
+                {
+                    "sentence": "Can you play __, Baobao?",
+                    "word": "ping-pong",
+                    "cue": "宝宝，你可以打乒乓球吗？"
+                },
+                {
+                    "sentence": "__'s go",
+                    "word": "let",
+                    "cue": "我们走"
+                },
+                {
+                    "sentence": "Can you __ rope?",
+                    "word": "jump",
+                    "cue": "你可以跳绳吗？"
+                },
+                {
+                    "sentence": "Can you jump __?",
+                    "word": "rope",
+                    "cue": "你可以跳绳吗？"
+                },
+                {
+                    "sentence": "__, I can't.",
+                    "word": "no",
+                    "cue": "不，我不会"
+                },
+                {
+                    "sentence": "It's __.",
+                    "word": "easy",
+                    "cue": "这很简单"
+                }
+            ]
+        },
+		{
+            "id":"17",
+            "name":"单元十七",
+            "words":[
+                {
+                    "sentence": "Hello, __",
+                    "word": "child",
+                    "cue": "你好，孩子们"
+                },
+                {
+                    "sentence": "It's __ School Cleaning Day.",
+                    "word": "our",
+                    "cue": "今天是我们的学校大扫除日"
+                },
+                {
+                    "sentence": "I can __ the blackboard.",
+                    "word": "clean",
+                    "cue": "我可以清理黑板"
+                },
+                {
+                    "sentence": "OK，let's __ the chairs on the desks.",
+                    "word": "put",
+                    "cue": "好的，咱们把椅子放在桌子上"
+                },
+                {
+                    "sentence": "I can __ the floor.",
+                    "word": "sweep",
+                    "cue": "我可以扫地"
+                },
+                {
+                    "sentence": "I can sweep the __.",
+                    "word": "floor",
+                    "cue": "我可以扫地"
+                },
+			    {
+                    "sentence": "I can clean the __.",
+                    "word": "blackboard",
+                    "cue": "我可以清理黑板"
+                },
+				{
+                    "sentence": "The __ are here and there.",
+                    "word": "book",
+                    "cue": "书到处都是"
+                }
+            ]
+        },
+		{
+            "id":"18",
+            "name":"单元十八",
+            "words":[
+                {
+                    "sentence": "I'm a big __ now.",
+                    "word": "girl",
+                    "cue": "我现在是一个大女孩了"
+                },
+                {
+                    "sentence": "I can clean my __.",
+                    "word": "room",
+                    "cue": "我可以清理我的房间"
+                },
+                {
+                    "sentence": "I can __ the dishes.",
+                    "word": "wash",
+                    "cue": "我可以刷碗"
+                },
+                {
+                    "sentence": "I can wash the __es.",
+                    "word": "dish",
+                    "cue": "我可以刷碗"
+                },
+                {
+                    "sentence": "I can __ books to my little sister.",
+                    "word": "read",
+                    "cue": "我可以给我的妹妹读书"
+                }
+            ]
+        },
+		{
+            "id":"19",
+            "name":"单元十九",
+            "words":[
+                {
+                    "sentence": "I __ a bird.",
+                    "word": "see",
+                    "cue": "我看见了一只小鸟"
+                },
+                {
+                    "sentence": "The cat is __.",
+                    "word": "black",
+                    "cue": "这只猫是黑色的"
+                },
+                {
+                    "sentence": "Let __ have a look.",
+                    "word": "me",
+                    "cue": "让我来看一看"
+                },
+                {
+                    "sentence": "The bird is __.",
+                    "word": "yellow",
+                    "cue": "这只鸟是黄色的"
+                },
+                {
+                    "sentence": "I see a __.",
+                    "word": "bee",
+                    "cue": "我看见一只蜜蜂"
+                },
+				{
+                    "sentence": "The sky is __.",
+                    "word": "blue",
+                    "cue": "天空是蓝色的"
+                },
+				{
+                    "sentence": "The trees are __.",
+                    "word": "green",
+                    "cue": "树是绿色的"
+                },
+				{
+                    "sentence": "The flowers are __ and pink.",
+                    "word": "red",
+                    "cue": "花是红色和粉色的"
+                }
+            ]
+        },
+		{
+            "id":"20",
+            "name":"单元二十",
+            "words":[
+                {
+                    "sentence": "__, what colour is this?",
+                    "word": "look",
+                    "cue": "看，这是什么颜色？"
+                },
+                {
+                    "sentence": "What __ is this?",
+                    "word": "colour",
+                    "cue": "这是什么颜色？"
+                },
+                {
+                    "sentence": "Let's __ red and yellow.",
+                    "word": "mix",
+                    "cue": "咱们把红色和黄色混合在一起"
+                },
+                {
+                    "sentence": "It's orange __.",
+                    "word": "now",
+                    "cue": "现在是橙色的"
+                },
+                {
+                    "sentence": "It's black __.",
+                    "word": "too",
+                    "cue": "它也是黑色的"
+                },
+				{
+                    "sentence": "That's __.",
+                    "word": "magic",
+                    "cue": "那太神奇了"
+                }
+            ]
+        },
+		{
+            "id":"21",
+            "name":"单元二十一",
+            "words":[
+                {
+                    "sentence": "I __ brown.",
+                    "word": "like",
+                    "cue": "我喜欢棕色"
+                },
+				{
+                    "sentence": "I like __.",
+                    "word": "brown",
+                    "cue": "我喜欢棕色"
+                },
+				{
+                    "sentence": "Brown is the colour of my tiddy __.",
+                    "word": "beer",
+                    "cue": "我的泰迪熊是棕色的"
+                },
+				{
+                    "sentence": "I like __.",
+                    "word": "purple",
+                    "cue": "我喜欢紫色"
+                },
+				{
+                    "sentence": "Purple is the colour of __s.",
+                    "word": "grape",
+                    "cue": "葡萄是紫色的"
+                },
+				{
+                    "sentence": "Red is the colour of __ __.",
+                    "word": "red scarf",
+                    "cue": "红领巾是红色的"
+                },
+				{
+                    "sentence": "I like __.",
+                    "word": "pink",
+                    "cue": "我喜欢粉色"
+                },
+				{
+                    "sentence": "Pink is the colour of __s.",
+                    "word": "flower",
+                    "cue": "花的颜色是粉色的"
+                }
+                
+            ]
+        },
+		{
+            "id":"22",
+            "name":"单元二十二",
+            "words":[
+                {
+                    "sentence": "Where is the __?",
+                    "word": "rainbow",
+                    "cue": "彩虹在哪里?"
+                },
+				{
+                    "sentence": "__ and violet.",
+                    "word": "indigo",
+                    "cue": "靛蓝色和紫罗兰色"
+                },
+				{
+                    "sentence": "indigo __ violet.",
+                    "word": "and",
+                    "cue": "靛蓝色和紫罗兰色"
+                },
+				{
+                    "sentence": "indigo and __.",
+                    "word": "violet",
+                    "cue": "靛蓝色和紫罗兰色"
+                },
+				{
+                    "sentence": "I can __ a rainbow.",
+                    "word": "make",
+                    "cue": "我能做一个彩虹"
+                }
+            ]
+        }
+    ]
+}

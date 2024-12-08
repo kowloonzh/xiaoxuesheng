@@ -35,11 +35,9 @@ var queue = list.New()
 
 func main() {
 	start1 := "游戏马上开始，请按照提示进行选择或者填空，然后按回车键\n"
-	start2 := "如果你不知道填写什么，输入问号 ? 查看答案\n"
-	start3 := "如果你想结束游戏，输入句号。\n"
+	start2 := "如果你不知道填写什么，输入问号 ? 查看答案; 如果你想结束游戏，输入句号。\n"
 	printChracter(start1)
 	printChracter(start2)
-	printChracter(start3)
 
 	loadCourse()
 
@@ -56,8 +54,7 @@ UNIT:
 	chooseUnit += "\n"
 	printChracter(chooseUnit)
 
-	unit, _ := reader.ReadString('\n')
-	unit = strings.TrimSpace(unit)
+	unit := readLine(reader)
 	englistUnit, ok := m[unit]
 	if ok {
 		englistUnit = m[unit]
@@ -83,14 +80,15 @@ UNIT:
 		queue.Remove(item)
 
 		// 读取标准输入
-		input, _ := reader.ReadString('\n')
-		// fmt.Println("你输入的是:", input)
-		input = strings.TrimSpace(input)
+		input := readLine(reader)
 
 		if isQuestion(input) {
-			fmt.Printf("答案是: %s", v.Word)
+			fmt.Printf("答案是: ")
+			printChracter(v.Word)
 			queue.PushBack(v)
-			time.Sleep(time.Second * 2)
+			fmt.Printf("\n请抄写一遍答案: ")
+			_, _ = reader.ReadString('\n')
+			time.Sleep(time.Second * 1)
 		} else if isOver(input) {
 			fmt.Println("游戏结束")
 			time.Sleep(time.Second * 2)
@@ -102,21 +100,31 @@ UNIT:
 				// 回答正确后，清理 item
 				time.Sleep(time.Second * 1)
 			} else {
-				fmt.Printf("❎,正确答案是%s\n\n", v.Word)
+				fmt.Printf("❎ 正确答案是: ")
+				printChracter(v.Word)
 				queue.PushBack(v)
-				time.Sleep(time.Second * 2)
+				fmt.Printf("\n请抄写一遍答案: ")
+				_, _ = reader.ReadString('\n')
+				time.Sleep(time.Second * 1)
 			}
 		}
 
 	}
 
-	printChracter("💐恭喜你，游戏通关，✿✿ヽ(°▽°)ノ✿")
-	time.Sleep(time.Second * 2)
+	printChracter("💐恭喜你，游戏通关，✿✿ヽ(°▽°)ノ✿\n")
+	printChracter("继续吗？输入y继续，其他任意键退出\n")
+	// 读取标准输入
+	input := readLine(reader)
+	if strings.ToLower(input) == "y" {
+		goto UNIT
+	}
+
+	time.Sleep(time.Second * 3)
 }
 
 func loadCourse() {
 
-	path,err := os.Getwd()
+	path, err := os.Getwd()
 	if err != nil {
 		panic(err)
 	}
@@ -127,11 +135,11 @@ func loadCourse() {
 	vip.SetConfigType("json")
 
 	// 尝试进行配置读取
-	if err := vip.ReadInConfig();err != nil {
+	if err := vip.ReadInConfig(); err != nil {
 		panic(err)
 	}
 
-	if err := vip.Unmarshal(&english);err != nil {
+	if err := vip.Unmarshal(&english); err != nil {
 		panic(err)
 	}
 
@@ -194,6 +202,12 @@ func isQuestion(q string) bool {
 
 func isOver(q string) bool {
 	return q == "。"
+}
+
+func readLine(reader *bufio.Reader) string {
+	unit, _ := reader.ReadString('\n')
+	unit = strings.TrimSpace(unit)
+	return unit
 }
 
 func clear() {
