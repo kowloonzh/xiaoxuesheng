@@ -299,6 +299,160 @@
             ]
         },
         {
+            "id":"9",
+            "name":"单元九",
+            "words":[
+                {
+                    "sentence": "It is a __. It's three days old.",
+                    "word": "duck",
+                    "cue": "这是一只鸭子，他出生三天了"
+                },
+                {
+                    "sentence": "We have ducks, __s.",
+                    "word": "hen",
+                    "cue": "我们有鸭子，母鸡"
+                },
+                {
+                    "sentence": "We have ducks, hens, __s.",
+                    "word": "cow",
+                    "cue": "我们有鸭子，母鸡，奶牛"
+                },
+                {
+                    "sentence": "We have ducks, hens, cows, __s.",
+                    "word": "horse",
+                    "cue": "我们有鸭子，母鸡，奶牛，马"
+                },
+                {
+                    "sentence": "We have ducks, hens, cows, horse and __.",
+                    "word": "sheep",
+                    "cue": "我们有鸭子，母鸡，奶牛，马和羊"
+                },
+                {
+                    "sentence": "It's __.",
+                    "word": "cute",
+                    "cue": "它很可爱"
+                },
+                {
+                    "sentence": "What's __?",
+                    "word": "that",
+                    "cue": "那是什么?"
+                }
+            ]
+        },
+        {
+            "id":"10",
+            "name":"单元十",
+            "words":[
+                {
+                    "sentence": "Wow, what a __ zoo.",
+                    "word": "big",
+                    "cue": "哇，多么大的动物园啊"
+                },
+                {
+                    "sentence": "Is it an __?",
+                    "word": "elephant",
+                    "cue": "它是大象吗？"
+                },
+                {
+                    "sentence": "It has two big __s.",
+                    "word": "ear",
+                    "cue": "它有两个大耳朵"
+                },
+                {
+                    "sentence": "It also has a __ nose.",
+                    "word": "long",
+                    "cue": "它还有一个长鼻子"
+                },
+                {
+                    "sentence": "It also has a long __.",
+                    "word": "nose",
+                    "cue": "它还有一个长鼻子"
+                },
+                {
+                    "sentence": "Listen! Is that a __.",
+                    "word": "lion",
+                    "cue": "听，那是一只狮子吗"
+                },
+                {
+                    "sentence": "Oh, no. It's a __",
+                    "word": "tiger",
+                    "cue": "哦，不，这是一只老虎"
+                },
+                {
+                    "sentence": "It's a big __. It has a long tail",
+                    "word": "cat",
+                    "cue": "这是一只大猫，它有一条长长的尾巴"
+                }
+            ]
+        },
+        {
+            "id":"11",
+            "name":"单元十一",
+            "words":[
+                {
+                    "sentence": "I see _ bird.",
+                    "word": "a",
+                    "cue": "我看见了一只鸟"
+                },
+                {
+                    "sentence": "I see a __.",
+                    "word": "bird",
+                    "cue": "我看见了一只鸟"
+                },
+                {
+                    "sentence": "I __ __ __ the bird.",
+                    "word": "take care of",
+                    "cue": "我照顾这只鸟"
+                },
+                {
+                    "sentence": "Is this your __?",
+                    "word": "pet",
+                    "cue": "这是你的宠物吗？"
+                },
+                {
+                    "sentence": "Kiki's __ is beautiful now.",
+                    "word": "tail",
+                    "cue": "Kiki 的尾巴现在很漂亮"
+                },
+                {
+                    "sentence": "Kiki's tail is __ now.",
+                    "word": "beautiful",
+                    "cue": "Kiki 的尾巴现在很漂亮"
+                },
+                {
+                    "sentence": "__, Kiki.",
+                    "word": "goodbye",
+                    "cue": "再见，Kiki"
+                }
+            ]
+        },
+        {
+            "id":"12",
+            "name":"单元十二",
+            "words":[
+                {
+                    "sentence": "Hello, Miss Giraffe! You are __.",
+                    "word": "tall",
+                    "cue": "你好，长颈鹿小姐，你很高"
+                },
+                {
+                    "sentence": "I hava a long __.",
+                    "word": "neck",
+                    "cue": "我有一个长长的脖子"
+                },
+                {
+                    "sentence": "Hello, Mr Monkey! You have long __s.",
+                    "word": "arm",
+                    "cue": "你好，猴子先生，你有长长的胳膊"
+                },
+                {
+                    "sentence": "You have __s, You can fly far away and find water.",
+                    "word": "wing",
+                    "cue": "你有翅膀，可以飞到很远的地方寻找水"
+                }
+            ]
+        },
+        {
             "id":"15",
             "name":"单元十五",
             "words":[
@@ -695,7 +849,7 @@
             "words":[
                 {
                     "sentence": "There are my __ mum and dad.",
-                    "word": "supper",
+                    "word": "super",
                     "cue": "这是我的超级好的爸爸和妈妈"
                 },
                 {

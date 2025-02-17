@@ -1,0 +1,45 @@
+{
+    "units":[
+        {
+            "id":"1",
+            "name":"单元一",
+            "words":[
+				{
+                    "sentence": "__ is your red scarf, Baobao?",
+                    "word": "where",
+                    "cue": "你的红领巾在哪里？"
+                },
+                {
+                    "sentence": "It's __ the box.",
+                    "word": "in",
+                    "cue": "它在盒子里"
+                },
+				{
+                    "sentence": "It's in the __.",
+                    "word": "box",
+                    "cue": "它在盒子里"
+                },
+				{
+                    "sentence": "Where is your __?",
+                    "word": "cap",
+                    "cue": "你的帽子在哪里？"
+                },
+				{
+                    "sentence": "It's __ the bed.",
+                    "word": "on",
+                    "cue": "它在床上."
+                },
+				{
+                    "sentence": "You can put them __ __ your schoolbag.",
+                    "word": "next to",
+                    "cue": "你可以把它放在书包的旁边"
+                },
+				{
+                    "sentence": "You can put them next to your __.",
+                    "word": "schoolbag",
+                    "cue": "你可以把它放在书包的旁边"
+                }
+            ]
+        }
+    ]
+}

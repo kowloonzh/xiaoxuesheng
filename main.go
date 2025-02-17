@@ -111,6 +111,7 @@ UNIT:
 
 	}
 
+	printChracter(fmt.Sprintf("%s单元完成,", unit))
 	printChracter("💐恭喜你，游戏通关，✿✿ヽ(°▽°)ノ✿\n")
 	printChracter("继续吗？输入y继续，其他任意键退出\n")
 	// 读取标准输入
@@ -192,7 +193,7 @@ func loadCourse() {
 func printChracter(s string) {
 	for _, v := range s {
 		fmt.Printf("%c", v)
-		time.Sleep(time.Millisecond * 100)
+		time.Sleep(time.Millisecond * 10)
 	}
 }
 
