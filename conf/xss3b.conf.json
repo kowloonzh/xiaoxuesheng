@@ -40,6 +40,37 @@
                     "cue": "你可以把它放在书包的旁边"
                 }
             ]
+        },
+        {
+            "id":"2",
+            "name":"单元二",
+            "words":[
+				{
+                    "sentence": "There is a __ on the floor.",
+                    "word": "ruler",
+                    "cue": "有一把尺子在地上"
+                },
+				{
+                    "sentence": "There is a ruler on __ floor.",
+                    "word": "the",
+                    "cue": "有一把尺子在地上"
+                },
+				{
+                    "sentence": "There is a book __ the chair.",
+                    "word": "under",
+                    "cue": "有一本书在椅子下面"
+                },
+				{
+                    "sentence": "That's my  __ book.",
+                    "word": "English",
+                    "cue": "那是我的英语书"
+                },
+				{
+                    "sentence": "My book is on my __.",
+                    "word": "desk",
+                    "cue": "我的书在我的桌子上"
+                }
+            ]
         }
     ]
 }
