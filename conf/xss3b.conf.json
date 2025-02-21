@@ -62,13 +62,142 @@
                 },
 				{
                     "sentence": "That's my  __ book.",
-                    "word": "English",
+                    "word": "english",
                     "cue": "那是我的英语书"
                 },
 				{
                     "sentence": "My book is on my __.",
                     "word": "desk",
                     "cue": "我的书在我的桌子上"
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "name":"单元三",
+            "words":[
+				{
+                    "sentence": "Let's put our __ in order.",
+                    "word": "clothes",
+                    "cue": "让我们把衣服整理好"
+                },
+				{
+                    "sentence": "Let's put our clothes __ __.",
+                    "word": "in order",
+                    "cue": "让我们把衣服整理好"
+                },
+				{
+                    "sentence": "Are __ your trousers, Mingming?",
+                    "word": "these",
+                    "cue": "这是你的裤子吗？明明"
+                },
+				{
+                    "sentence": "Are these your __, Mingming?",
+                    "word": "trousers",
+                    "cue": "这是你的裤子吗？明明"
+                },
+				{
+                    "sentence": "Are these your __, Wenwen?",
+                    "word": "socks",
+                    "cue": "这是你的袜子吗？文文"
+                },
+				{
+                    "sentence": "Where are my __?",
+                    "word": "shorts",
+                    "cue": "我的短裤在哪里？"
+                },
+				{
+                    "sentence": "They are __ the door.",
+                    "word": "behind",
+                    "cue": "它们在门后面"
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "name":"单元四",
+            "words":[
+				{
+                    "sentence": "Where is my __?",
+                    "word": "pen",
+                    "cue": "我的钢笔在哪里？"
+                },
+				{
+                    "sentence": "It's under the __.",
+                    "word": "doll",
+                    "cue": "它在娃娃上面"
+                },
+				{
+                    "sentence": "Where is my __ book?",
+                    "word": "chinese",
+                    "cue": "我的中文书在哪里？"
+                },
+				{
+                    "sentence": "I should __ up my room.",
+                    "word": "tidy",
+                    "cue": "让我们把衣服整理好"
+                }
+            ]
+        },
+        {
+            "id":"5",
+            "name":"单元五",
+            "words":[
+				{
+                    "sentence": "What's the __ like today?",
+                    "word": "weather",
+                    "cue": "今天天气怎么样？"
+                },
+				{
+                    "sentence": "It's __.",
+                    "word": "rainy",
+                    "cue": "今天下雨了"
+                },
+				{
+                    "sentence": "It's __, Keep warm!",
+                    "word": "snowy",
+                    "cue": "今天下雪了，多穿点衣服"
+                },
+				{
+                    "sentence": "It's __, You can go out and have a look!",
+                    "word": "windy",
+                    "cue": "今天刮风了，出去看看吧"
+                }
+            ]
+        },
+        {
+            "id":"6",
+            "name":"单元六",
+            "words":[
+				{
+                    "sentence": "Is it very __ in Harbin?",
+                    "word": "cold",
+                    "cue": "哈尔滨很冷吗?"
+                },
+				{
+                    "sentence": "We can play with the __.",
+                    "word": "snow",
+                    "cue": "我们可以玩雪"
+                },
+				{
+                    "sentence": "No, it isn't. It's __.",
+                    "word": "sunny",
+                    "cue": "不, 今天天气很好"
+                },
+				{
+                    "sentence": "It's __. I can swim in the sea.",
+                    "word": "hot",
+                    "cue": "今天很热, 我可以在海里游泳"
+                },
+				{
+                    "sentence": "It's hot. I can __ in the sea.",
+                    "word": "swim",
+                    "cue": "今天很热, 我可以在海里游泳"
+                },
+				{
+                    "sentence": "It's hot. I can swim in the __.",
+                    "word": "sea",
+                    "cue": "今天很热, 我可以在海里游泳"
                 }
             ]
         }
