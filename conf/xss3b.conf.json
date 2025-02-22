@@ -200,6 +200,73 @@
                     "cue": "今天很热, 我可以在海里游泳"
                 }
             ]
+        },
+        {
+            "id":"7",
+            "name":"单元七",
+            "words":[
+				{
+                    "sentence": "Time to __ __, Baobao.",
+                    "word": "get up",
+                    "cue": "宝宝，起床了"
+                },
+				{
+                    "sentence": "We are going to the __.",
+                    "word": "park",
+                    "cue": "我们打算去公园"
+                },
+				{
+                    "sentence": "__, Mingming.",
+                    "word": "ok",
+                    "cue": "好的，明明"
+                },
+				{
+                    "sentence": "It's __ing now.Do you like rainy days,Baobao?",
+                    "word": "rain",
+                    "cue": "现在下雨了，你喜欢下雨天吗，宝宝?"
+                },
+				{
+                    "sentence": "No, I don't. I can't fly my __.",
+                    "word": "kite",
+                    "cue": "不，我不喜欢。我不能放风筝"
+                },
+				{
+                    "sentence": "Take an __, please.",
+                    "word": "umbrella",
+                    "cue": "请带一把伞"
+                }
+            ]
+        },
+        {
+            "id":"8",
+            "name":"单元八",
+            "words":[
+				{
+                    "sentence": "It __ snowy and cold now.",
+                    "word": "is",
+                    "cue": "现在下雪且很冷"
+                },
+				{
+                    "sentence": "I __ a warm coat.",
+                    "word": "wear",
+                    "cue": "我穿了一件暖和的大衣"
+                },
+				{
+                    "sentence": "I wear a warm __.",
+                    "word": "coat",
+                    "cue": "我穿了一件暖和的大衣"
+                },
+				{
+                    "sentence": "It's __ and rainy now.",
+                    "word": "cloudy",
+                    "cue": "现在多云且下雨"
+                },
+				{
+                    "sentence": "I wear a __.",
+                    "word": "raincoat",
+                    "cue": "我穿了一件雨衣"
+                }
+            ]
         }
     ]
 }
