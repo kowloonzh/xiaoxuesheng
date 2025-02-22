@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"container/list"
+	"flag"
 	"fmt"
 	"os"
 	"os/exec"
@@ -34,12 +35,18 @@ var english English
 var queue = list.New()
 
 func main() {
+	var confPath string
+	path, _ := os.Getwd()
+
+	flag.StringVar(&confPath, "c", path+"/conf.json", "配置文件路径")
+	flag.Parse()
+
 	start1 := "游戏马上开始，请按照提示进行选择或者填空，然后按回车键\n"
-	start2 := "如果你不知道填写什么，输入问号 ? 查看答案; 如果你想结束游戏，输入句号。\n"
+	start2 := "如果你不知道填写什么，输入问号 ? 查看答案; 如果你想结束游戏，按下 ctrl + c 键。\n"
 	printChracter(start1)
 	printChracter(start2)
 
-	loadCourse()
+	loadCourse(confPath)
 
 	reader := bufio.NewReader(os.Stdin)
 
@@ -123,17 +130,13 @@ UNIT:
 	time.Sleep(time.Second * 3)
 }
 
-func loadCourse() {
-
-	path, err := os.Getwd()
-	if err != nil {
-		panic(err)
-	}
+func loadCourse(path string) {
 
 	vip := viper.New()
-	vip.AddConfigPath(path)
-	vip.SetConfigName("conf")
-	vip.SetConfigType("json")
+	vip.SetConfigFile(path)
+	// vip.AddConfigPath(path)
+	//	vip.SetConfigName("conf")
+	// vip.SetConfigType("json")
 
 	// 尝试进行配置读取
 	if err := vip.ReadInConfig(); err != nil {
