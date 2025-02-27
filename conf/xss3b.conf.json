@@ -97,8 +97,8 @@
                     "cue": "这是你的裤子吗？明明"
                 },
 				{
-                    "sentence": "Are these your __, Wenwen?",
-                    "word": "socks",
+                    "sentence": "Are these your __s, Wenwen?",
+                    "word": "sock",
                     "cue": "这是你的袜子吗？文文"
                 },
 				{
