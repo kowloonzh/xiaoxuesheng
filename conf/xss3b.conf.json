@@ -1,10 +1,10 @@
 {
-    "units":[
+    "units": [
         {
-            "id":"1",
-            "name":"单元一",
-            "words":[
-				{
+            "id": "1",
+            "name": "单元一",
+            "words": [
+                {
                     "sentence": "__ is your red scarf, Baobao?",
                     "word": "where",
                     "cue": "你的红领巾在哪里？"
@@ -14,27 +14,27 @@
                     "word": "in",
                     "cue": "它在盒子里"
                 },
-				{
+                {
                     "sentence": "It's in the __.",
                     "word": "box",
                     "cue": "它在盒子里"
                 },
-				{
+                {
                     "sentence": "Where is your __?",
                     "word": "cap",
                     "cue": "你的帽子在哪里？"
                 },
-				{
+                {
                     "sentence": "It's __ the bed.",
                     "word": "on",
                     "cue": "它在床上."
                 },
-				{
+                {
                     "sentence": "You can put them __ __ your schoolbag.",
                     "word": "next to",
                     "cue": "你可以把它放在书包的旁边"
                 },
-				{
+                {
                     "sentence": "You can put them next to your __.",
                     "word": "schoolbag",
                     "cue": "你可以把它放在书包的旁边"
@@ -42,30 +42,30 @@
             ]
         },
         {
-            "id":"2",
-            "name":"单元二",
-            "words":[
-				{
+            "id": "2",
+            "name": "单元二",
+            "words": [
+                {
                     "sentence": "There is a __ on the floor.",
                     "word": "ruler",
                     "cue": "有一把尺子在地上"
                 },
-				{
+                {
                     "sentence": "There is a ruler on __ floor.",
                     "word": "the",
                     "cue": "有一把尺子在地上"
                 },
-				{
+                {
                     "sentence": "There is a book __ the chair.",
                     "word": "under",
                     "cue": "有一本书在椅子下面"
                 },
-				{
+                {
                     "sentence": "That's my  __ book.",
                     "word": "english",
                     "cue": "那是我的英语书"
                 },
-				{
+                {
                     "sentence": "My book is on my __.",
                     "word": "desk",
                     "cue": "我的书在我的桌子上"
@@ -73,40 +73,40 @@
             ]
         },
         {
-            "id":"3",
-            "name":"单元三",
-            "words":[
-				{
+            "id": "3",
+            "name": "单元三",
+            "words": [
+                {
                     "sentence": "Let's put our __ in order.",
                     "word": "clothes",
                     "cue": "让我们把衣服整理好"
                 },
-				{
+                {
                     "sentence": "Let's put our clothes __ __.",
                     "word": "in order",
                     "cue": "让我们把衣服整理好"
                 },
-				{
+                {
                     "sentence": "Are __ your trousers, Mingming?",
                     "word": "these",
                     "cue": "这是你的裤子吗？明明"
                 },
-				{
+                {
                     "sentence": "Are these your __, Mingming?",
                     "word": "trousers",
                     "cue": "这是你的裤子吗？明明"
                 },
-				{
+                {
                     "sentence": "Are these your __s, Wenwen?",
                     "word": "sock",
                     "cue": "这是你的袜子吗？文文"
                 },
-				{
+                {
                     "sentence": "Where are my __?",
                     "word": "shorts",
                     "cue": "我的短裤在哪里？"
                 },
-				{
+                {
                     "sentence": "They are __ the door.",
                     "word": "behind",
                     "cue": "它们在门后面"
@@ -114,25 +114,25 @@
             ]
         },
         {
-            "id":"4",
-            "name":"单元四",
-            "words":[
-				{
+            "id": "4",
+            "name": "单元四",
+            "words": [
+                {
                     "sentence": "Where is my __?",
                     "word": "pen",
                     "cue": "我的钢笔在哪里？"
                 },
-				{
+                {
                     "sentence": "It's under the __.",
                     "word": "doll",
                     "cue": "它在娃娃上面"
                 },
-				{
+                {
                     "sentence": "Where is my __ book?",
                     "word": "chinese",
                     "cue": "我的中文书在哪里？"
                 },
-				{
+                {
                     "sentence": "I should __ up my room.",
                     "word": "tidy",
                     "cue": "让我们把衣服整理好"
@@ -140,25 +140,25 @@
             ]
         },
         {
-            "id":"5",
-            "name":"单元五",
-            "words":[
-				{
+            "id": "5",
+            "name": "单元五",
+            "words": [
+                {
                     "sentence": "What's the __ like today?",
                     "word": "weather",
                     "cue": "今天天气怎么样？"
                 },
-				{
+                {
                     "sentence": "It's __.",
                     "word": "rainy",
                     "cue": "今天下雨了"
                 },
-				{
+                {
                     "sentence": "It's __, Keep warm!",
                     "word": "snowy",
                     "cue": "今天下雪了，多穿点衣服"
                 },
-				{
+                {
                     "sentence": "It's __, You can go out and have a look!",
                     "word": "windy",
                     "cue": "今天刮风了，出去看看吧"
@@ -166,35 +166,35 @@
             ]
         },
         {
-            "id":"6",
-            "name":"单元六",
-            "words":[
-				{
+            "id": "6",
+            "name": "单元六",
+            "words": [
+                {
                     "sentence": "Is it very __ in Harbin?",
                     "word": "cold",
                     "cue": "哈尔滨很冷吗?"
                 },
-				{
+                {
                     "sentence": "We can play with the __.",
                     "word": "snow",
                     "cue": "我们可以玩雪"
                 },
-				{
+                {
                     "sentence": "No, it isn't. It's __.",
                     "word": "sunny",
                     "cue": "不, 今天天气很好"
                 },
-				{
+                {
                     "sentence": "It's __. I can swim in the sea.",
                     "word": "hot",
                     "cue": "今天很热, 我可以在海里游泳"
                 },
-				{
+                {
                     "sentence": "It's hot. I can __ in the sea.",
                     "word": "swim",
                     "cue": "今天很热, 我可以在海里游泳"
                 },
-				{
+                {
                     "sentence": "It's hot. I can swim in the __.",
                     "word": "sea",
                     "cue": "今天很热, 我可以在海里游泳"
@@ -202,35 +202,35 @@
             ]
         },
         {
-            "id":"7",
-            "name":"单元七",
-            "words":[
-				{
+            "id": "7",
+            "name": "单元七",
+            "words": [
+                {
                     "sentence": "Time to __ __, Baobao.",
                     "word": "get up",
                     "cue": "宝宝，起床了"
                 },
-				{
+                {
                     "sentence": "We are going to the __.",
                     "word": "park",
                     "cue": "我们打算去公园"
                 },
-				{
+                {
                     "sentence": "__, Mingming.",
                     "word": "ok",
                     "cue": "好的，明明"
                 },
-				{
+                {
                     "sentence": "It's __ing now.Do you like rainy days,Baobao?",
                     "word": "rain",
                     "cue": "现在下雨了，你喜欢下雨天吗，宝宝?"
                 },
-				{
+                {
                     "sentence": "No, I don't. I can't fly my __.",
                     "word": "kite",
                     "cue": "不，我不喜欢。我不能放风筝"
                 },
-				{
+                {
                     "sentence": "Take an __, please.",
                     "word": "umbrella",
                     "cue": "请带一把伞"
@@ -238,33 +238,192 @@
             ]
         },
         {
-            "id":"8",
-            "name":"单元八",
-            "words":[
-				{
+            "id": "8",
+            "name": "单元八",
+            "words": [
+                {
                     "sentence": "It __ snowy and cold now.",
                     "word": "is",
                     "cue": "现在下雪且很冷"
                 },
-				{
+                {
                     "sentence": "I __ a warm coat.",
                     "word": "wear",
                     "cue": "我穿了一件暖和的大衣"
                 },
-				{
+                {
                     "sentence": "I wear a warm __.",
                     "word": "coat",
                     "cue": "我穿了一件暖和的大衣"
                 },
-				{
+                {
                     "sentence": "It's __ and rainy now.",
                     "word": "cloudy",
                     "cue": "现在多云且下雨"
                 },
-				{
+                {
                     "sentence": "I wear a __.",
                     "word": "raincoat",
                     "cue": "我穿了一件雨衣"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "单元九",
+            "words": [
+                {
+                    "sentence": "In __, it is warm and windy. Trees turn green.",
+                    "word": "spring",
+                    "cue": "春天，很暖和且刮风，树木变绿"
+                },
+                {
+                    "sentence": "In __, it is hot and sunny. Flowers love the rain.",
+                    "word": "summer",
+                    "cue": "夏天，很热且晴朗，花朵喜欢下雨"
+                },
+                {
+                    "sentence": "In __, it is cool and golden. Leaves fall.",
+                    "word": "autumn",
+                    "cue": "秋天，很凉爽且金黄，叶子落下"
+                },
+                {
+                    "sentence": "In __, it is cold and white. Snow covers the mountain.",
+                    "word": "winter",
+                    "cue": "冬天，很冷且白雪覆盖山峰"
+                },
+                {
+                    "sentence": "There are four __s in a year.",
+                    "word": "season",
+                    "cue": "一年有四季"
+                },
+                {
+                    "sentence": "There are four seasons in a __.",
+                    "word": "year",
+                    "cue": "一年有四季"
+                },
+                {
+                    "sentence": "In spring, it is __ and windy. Trees turn green.",
+                    "word": "warm",
+                    "cue": "春天，很暖和且刮风，树木变绿"
+                },
+                {
+                    "sentence": "In autumn, it is __ and golden. Leaves fall.",
+                    "word": "cool",
+                    "cue": "秋天，很凉爽且金黄，叶子落下"
+                },
+                {
+                    "sentence": "In winter, it is cold and white. Snow covers the __.",
+                    "word": "mountain",
+                    "cue": "冬天，很冷且白雪覆盖山峰"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "单元十",
+            "words": [
+                {
+                    "sentence": "Spring comes. We can fly kites in the park. We wear __s",
+                    "word": "sweater",
+                    "cue": "春天来了，我们可以在公园里放风筝。我们穿毛衣"
+                },
+                {
+                    "sentence": "Summer comes. We can play on the beach. We wear __s and shorts",
+                    "word": "skirt",
+                    "cue": "夏天来了，我们可以在海滩上玩。我们穿裙子和短裤"
+                },
+                {
+                    "sentence": "Autumn comes. We can pick up __ leaves. We wear shirts and trousers",
+                    "word": "golden",
+                    "cue": "秋天来了，我们可以捡金黄的叶子。我们穿衬衫和裤子"
+                },
+                {
+                    "sentence": "Autumn comes. We can pick up golden __(leaves的单数). We wear shirts and trousers",
+                    "word": "leaf",
+                    "cue": "秋天来了，我们可以捡金黄的叶子。我们穿衬衫和裤子"
+                },
+                {
+                    "sentence": "Autumn comes. We can pick up golden leaves. We wear __s and trousers",
+                    "word": "shirt",
+                    "cue": "秋天来了，我们可以捡金黄的叶子。我们穿衬衫和裤子"
+                },
+                {
+                    "sentence": "Winter comes. We can play with the snow. We wear __s",
+                    "word": "coats",
+                    "cue": "冬天来了，我们可以玩雪。我们穿大衣"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "单元十一",
+            "words": [
+                {
+                    "sentence": "I like spring in Beijing. I like to go to Beihai Park and __ a boat.",
+                    "word": "row",
+                    "cue": "我喜欢北京的春天。我喜欢去北海公园并划船"
+                },
+                {
+                    "sentence": "I like spring in Beijing. I like to go to Beihai Park and row a boat.",
+                    "word": "boat",
+                    "cue": "我喜欢北京的春天。我喜欢去北海公园并划船"
+                },
+                {
+                    "sentence": "I like summer in Beijing. I can go to the Summer Palace. I can have a __ there.",
+                    "word": "walk",
+                    "cue": "我喜欢北京的夏天。我可以去颐和园。我可以在那里走走"
+                },
+                {
+                    "sentence": "I like winter in Beijing. I like to go __-skating in Shichahai.",
+                    "word": "ice",
+                    "cue": "我喜欢北京的冬天。我喜欢去什刹海滑冰"
+                },
+                {
+                    "sentence": "I like winter in Beijing. I like to go __ in Shichahai.",
+                    "word": "ice-skating",
+                    "cue": "我喜欢北京的冬天。我喜欢去什刹海滑冰"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "单元十二",
+            "words": [
+                {
+                    "sentence": "In spring, I wake up and look __ food.",
+                    "word": "for",
+                    "cue": "春天，我醒来找寻食物"
+                },
+                {
+                    "sentence": "In summer, I like to __ trees and swim in the river.",
+                    "word": "climb",
+                    "cue": "夏天，我喜欢爬树并在河里游泳"
+                },
+                {
+                    "sentence": "In summer, I like to climb __s and swim in the river.",
+                    "word": "tree",
+                    "cue": "夏天，我喜欢爬树并在河里游泳"
+                },
+                {
+                    "sentence": "In summer, I like to climb trees and swim in the __.",
+                    "word": "river",
+                    "cue": "夏天，我喜欢爬树并在河里游泳"
+                },
+                {
+                    "sentence": "In autumn, I catch __ and eat a lot.",
+                    "word": "fish",
+                    "cue": "秋天，我捕捉鱼并吃很多"
+                },
+                {
+                    "sentence": "In autumn, I catch fish and eat a __.",
+                    "word": "lot",
+                    "cue": "秋天，我捕捉鱼并吃很多"
+                },
+                {
+                    "sentence": "In winter, I __ in my sweet home all the time",
+                    "word": "sleep",
+                    "cue": "冬天，我一直在甜蜜的家里睡觉"
                 }
             ]
         }
